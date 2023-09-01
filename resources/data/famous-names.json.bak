@@ -1,0 +1,36 @@
+{
+  "famousNames": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "location": {
+        "lat": 53.883441,
+        "lng":-1.262003
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jack Daniels",
+      "location": {
+        "lat": 35.270051,
+        "lng":-86.439427
+      }
+    },
+    {
+      "id": 3,
+      "name": "Johnnie Walker",
+      "location": {
+        "lat": 55.950162,
+        "lng":-3.208158
+      }
+    },
+    {
+      "id": 4,
+      "name": "Jim Beam",
+      "location": {
+        "lat": 37.828398,
+        "lng":-85.926203
+      }
+    }
+  ]
+}
